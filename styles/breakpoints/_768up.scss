@@ -1,0 +1,22 @@
+.mobile-menu {
+
+    &__btn {
+        display: block;
+    }
+}
+
+.logo {
+    padding: 0 30px;
+    font-size: 30px;
+}
+
+.header {
+    &__nav {
+        display: none;
+    }
+}
+
+.merit__content__panel {
+    width: 220px;
+    min-height: 630px;
+}

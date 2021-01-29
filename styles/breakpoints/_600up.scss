@@ -1,0 +1,19 @@
+.merit {
+    &__contents {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    &__content {
+        margin-bottom: 30px;
+        &__panel {
+            min-height: 230px !important;
+        }
+    }
+}
+
+.mobile-menu {
+    &__btn {
+        display: block;
+    }
+}
